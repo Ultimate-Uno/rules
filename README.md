@@ -53,3 +53,4 @@ The player to the left of the dealer plays first. Play passes clockwise. You mus
 
 # Going out
 Before playing your next to last card, you must say "UNO". If someone catches on that you did not say "UNO", then you must draw ~~4~~ 2 cards as a penalty. You can only get caught after you play your second to last card and before the next player's turn. Once a player plays their last card, the hand is over and they win. 
+
