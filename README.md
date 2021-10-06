@@ -51,5 +51,7 @@ The player to the left of the dealer plays first. Play passes clockwise. You mus
 
 (DRAW TO MATCH) - If you do not have a card to play or choose to draw, you must keep drawing until you draw a card you can play. When you draw a card you can play, you may choose to play the card or keep it. Normally you would want to play it, it's better to have 26 cards than 27.
 
+(JUMPING IN) - If you have the same color and number as the top of the DISCARD pile, you may play it out of turn before the next person in play. Play continues after the person who jumped in.
+
 # Going out
 Before playing your next to last card, you must say "UNO". If someone catches on that you did not say "UNO", then you must draw ~~4~~ 2 cards as a penalty. You can only get caught after you play your second to last card and before the next player's turn. Once a player plays their last card, the hand is over and they win. 
