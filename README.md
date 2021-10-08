@@ -38,6 +38,8 @@ Each player draws a card. The player with the highest card value is the dealer. 
 
 * Wild Card - When you play this card, you may change the top color of the DISCARD pile into any color. 
 
+(CRAZY NUMBERS) - However, you must roll a 10 sided dice. The number that appears after the roll will become the number of the Wild.
+
 * Wild +4 - This is the same as the Wild Card but requires the next player to draw 4 cards and forfeit their turn. 
 
 (BLUFFING) - However, this card may only be played if you do not have any other card to play. The player required to draw 4 may challenge the player who played the Wild +4 if they think they played the card illegally. If they are guilty, the player who played the Wild +4 must draw the 4 cards. If not, the player who challenged must draw 4 cards PLUS an additional 2 cards as a penalty.
