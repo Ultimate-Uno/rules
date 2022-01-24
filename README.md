@@ -14,13 +14,15 @@ Anything not formatted in this way is most likely a real UNO rule.
 # Adding a rule
 This wouldn't be Ultimate UNO without some suggestions! If you want to add or omit a rule, [open a pull request](https://github.com/Ultimate-Uno/rules/pulls) and edit the rulebook to your liking (make sure to follow the "How to read the rules" section) and add a TL;DR in the pull request comment. If your addition to the rulebook is accepted, then congratulations, you are a contributor!
 
-If you wish to add a special card, I (ollin) will design one based on the rules and what you want the card to look like. Please note this isn't easy, I'm only just getting used to Inkscape.
+If you wish to add a special card, I (ollin) will design one based on the rules and what you want the card to look like.
 
 # Goal
 The first player to play all the cards in their hand wins. ~~in each round scores points for all the cards their opponents are left holding. The first to 500 points wins the game.~~
 
 # Set Up
-Each player draws a card. The player with the highest card value is the dealer. Each player is dealt 7 cards. Place the remaining cards face down in a pile. This will be the DRAW pile. Take one card from the DRAW pile and place it face up next to the DRAW pile to begin a DISCARD pile. If the first face up card from the DRAW pile is a Wild or a Wild +4, put the card back into the draw pile, shuffle it, then try again.
+Each player draws a card. The player with the highest card value is the dealer. Each player is dealt ~~7~~ 5 cards. Place the remaining cards face down in a pile. This will be the DRAW pile. Take one card from the DRAW pile and place it face up next to the DRAW pile to begin a DISCARD pile. If the first face up card from the DRAW pile is a ~~Wild or a Wild +4~~ special card (Skip, Draw +2, Wild, etc.), put the card back into the draw pile, shuffle it, then try again. 
+
+Each player also draws 2 cards from the magic draw pile.
 
 # Special Cards
 
@@ -53,7 +55,7 @@ In tradition of making this game as mindbogglingly confusing and hard to learn a
 
 During the beginning of your turn, you may choose to draw one magic card from the magic draw pile. At the end of your turn (if an UNO card is played or a magic card with the ability to end your turn is played), you must take one mana. Jump-Ins automatically exclude you from the last 2 rules mentioned unless you jumped in on yourself.
 
-Here are some the types of cards we feature:
+Here are the types of cards we feature:
 
 * Spell Cards - The most common card in the magic card series. These cards have the ability to affect anyone and anything at the table, as written on the card. The amount of mana needed to use the card is determined by its rarity (see PRICES below).
 
@@ -80,7 +82,7 @@ The player to the left of the dealer plays first. Play passes clockwise. You mus
 
 (JUMPING IN) - If you have the same color and number as the top of the DISCARD pile, you may play it out of turn before the next person in play. Play continues after the person who jumped in.
 
-(MAGIC CARDS) - You may choose to draw a magic card in the beginning of your turn. As explained in the magic cards section, you may play a magic card during your turn, assuming you have enough mana for that card.
+_(MAGIC CARDS)_ - You may choose to draw a magic card in the beginning of your turn. As explained in the magic cards section, you may play a magic card during your turn, assuming you have enough mana for that card.
 
 # Going out
 Before playing your next to last card, you must say "UNO". If someone catches on that you did not say "UNO", then you must draw ~~4~~ 2 cards as a penalty. You can only get caught after you play your second to last card and before the next player's turn. Once a player plays their last card, the hand is over and they win. 
