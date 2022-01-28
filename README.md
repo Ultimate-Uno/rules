@@ -89,7 +89,7 @@ Here are the types of cards we feature:
 
 * Equipable Spells (WIP) - These cards come in a set of 3 or more and are drawn from a separate pile. Once all parts of the set are retrieved, you can trade those parts in for a singular card that acts as all those pieces and invest some mana for special perks.
 
-* Equipable Attacks - These cards can be attached to any attack type spell and the card shows how much mana to attach.
+* Equipable Attacks - These cards can be attached to __any__ attack type spell (including other players') and the card shows how much mana to attach.
 
 # Playing
 The player to the left of the dealer plays first. Play passes clockwise. You must match the top card of the DISCARD pile with either a matching color or matching number. For example, if the top card is a Red 5, you must play a red card, any color 5, or any Wild card. If you do not have a matching card, you must draw. If you draw a card you can play, you may play or keep the card. If no one is out of cards by the time the DRAW pile is depleted, reshuffle the DISCARD pile and continue play.
