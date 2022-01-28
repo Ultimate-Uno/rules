@@ -63,17 +63,33 @@ Here are the types of cards we feature:
 
 (DOUBLE SPELL) - Two of the same card is needed to use it.
 
+(ATTACK SPELL) - Any spell that can attack another player, defined by the sword emblem.
+
+(CHANCE SPELL) - Any spell that requires a dice roll to function, defined by the dice emblem.
+
+(DEALER SPELL) - Any spell that can add or remove cards, defined by the +2 emblem.
+
+(SEATED SPELL) - Any spell that affect a normally untouchable part of the game (such as switching seats), defined by the table/pi emblem.
+
 * Trap Cards - These cards must be set before they can be activated. They have the ability to do something when the condition(s) written on the card are met. To set the card, place it face down and put two mana on top of it. They can be activated at any time when the condition(s) are met, even if it isn't your turn. You may unset the card to take the mana back, but it cannot be activated after being unset.
 
 (COUNTER TRAP) - Normally activated when something or someone is threatening you, and it can essentially reflect that attack back at the threat.
 
 * Field Effects - These cards have the ability to change anything at the table. They stay in effect until (a) A condition on the card is met or (b) another field effect is played. Only one field effect at a time can be played, unless stated otherwise 😏
 
+(TIMED EFFECT) - A field effect that will expire after a condition is met, defined by the clock emblem.
+
+(INFINITE EFFECT) - A field effect that stays in play indefinitely until another field effect is played, defined by the infinity emblem.
+
+(CHANCE EFFECT) - A field effect that requires a dice roll to function, defined by the dice emblem.
+
 * Special Parts - On their own, they are useless, but when paired with their counterparts, they can do some serious damage. The only use of this type is the Exodia clone, or formally known as The Ultimate Wild. Collect all 5 parts, and you win.
 
 * Penalty Cards - When drawn, the effect immediately activates, usually causing the player to draw from a dice roll. This is why you can choose to draw a magic card!
 
-* Equippable Spells (WIP) - These cards come in a set of 3 or more and are drawn from a separate pile. Once all parts of the set are retrieved, you can trade those parts in for a singular card that acts as all those pieces and invest some mana for special perks.
+* Equipable Spells (WIP) - These cards come in a set of 3 or more and are drawn from a separate pile. Once all parts of the set are retrieved, you can trade those parts in for a singular card that acts as all those pieces and invest some mana for special perks.
+
+* Equipable Attacks - These cards can be attached to any attack type spell and the card shows how much mana to attach.
 
 # Playing
 The player to the left of the dealer plays first. Play passes clockwise. You must match the top card of the DISCARD pile with either a matching color or matching number. For example, if the top card is a Red 5, you must play a red card, any color 5, or any Wild card. If you do not have a matching card, you must draw. If you draw a card you can play, you may play or keep the card. If no one is out of cards by the time the DRAW pile is depleted, reshuffle the DISCARD pile and continue play.
