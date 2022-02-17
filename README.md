@@ -28,7 +28,7 @@ Each player also draws 2 cards from the magic draw pile.
 
 * Draw 2 - When player (a) plays this card, the next player (b) must draw 2 additional cards and forfeit their turn. This card may only be played on a matching color or on another Draw 2 card. This card may also be played if you choose to stack (see STACKING below)
 
-(STACKING) - If player (b) has a Draw 2, they may choose to play it and make the next player (c) draw 2 additional cards PLUS the previous number that player (b) had to draw. The amount of cards a player needs to draw will increase by 2 for every turn that a player places a Draw 2. If the last player does not have a Draw 2, they must draw the total of all the Draw 2s played when stacking, ending the chain.
+(STACKING) - If player (b) has a Draw card, they may choose to play it and make the next player (c) draw the additional cards PLUS the previous number that player (b) had to draw. The amount of cards a player needs to draw will increase by 2 for every turn that a player places a Draw 2. If the last player does not have a Draw 2, they must draw the total of all the Draw cards played when stacking, ending the chain.
 
 * Reverse Card - This card reverses the direction of play. Clockwise turns into counter-clockwise and vice versa. This card may only be played on a matching color or on another reverse card. 
 
@@ -46,14 +46,16 @@ Each player also draws 2 cards from the magic draw pile.
 
 ~~(BLUFFING) - However, this card may only be played if you do not have any other card to play. The player required to draw 4 may challenge the player who played the Wild +4 if they think they played the card illegally. If they are guilty, the player who played the Wild +4 must draw the 4 cards. If not, the player who challenged must draw 4 cards PLUS an additional 2 cards as a penalty.~~
 
-(STACKING) - Similar to the Draw 2 STACKING effect, this card may only be stacked with other Wild +4 cards. The BLUFFING clause does not take effect if this card is being stacked.
+(STACKING) - Similar to the Draw 2 STACKING effect, this card may also be stacked with other Draw cards. The BLUFFING clause does not take effect if this card is being stacked.
 
 * "7 and 0s"  - When you play a 7 of any color, you may swap hands with any person you'd like. If you play a 0 of any color, every players' hands are given to the next person in the direction of play. If turns are going clockwise, everyone passes their cards clockwise, and vice versa.
 
 # Magic Cards
-In tradition of making this game as mindbogglingly confusing and hard to learn as possible, we have decided to go with a Yugioh style approach. Introducing: magic cards! A stylish, second hand that allows you, the player, to destroy your opponents with special effects such as an airstrike, anti-UNO, and an Exodia copy! However, this isn't Yugioh. We have also implemented a mana system in order to control how many of these special cards that you're playing. 
+In tradition of making this game as mindbogglingly confusing and hard to learn as possible, we have decided to go with a Yugioh style approach. Introducing: magic cards! A stylish, second hand that allows you, the player, to destroy your opponents with special effects such as an airstrike, anti-UNO, and an Exodia clone! However, this isn't Yugioh. We have also implemented a mana system in order to control how many of these special cards that you can play per turn. 
 
 During the beginning of your turn, you may choose to draw one magic card from the magic draw pile. At the end of your turn (if an UNO card is played or a magic card with the ability to end your turn is played), you must take one mana. Jump-Ins automatically exclude you from the last 2 rules mentioned unless you jumped in on yourself.
+
+To view a list of every card featured in Ultimate Uno, click [here](https://github.com/Ultimate-Uno/rules/blob/main/CARDS.md).
 
 Here are the types of cards we feature:
 
@@ -83,13 +85,13 @@ Here are the types of cards we feature:
 
 (CHANCE EFFECT) - A field effect that requires a dice roll to function, defined by the dice emblem.
 
-* Special Parts - On their own, they are useless, but when paired with their counterparts, they can do some serious damage. The only use of this type is the Exodia clone, or formally known as The Ultimate Wild. Collect all 5 parts, and you win.
+* Special Parts - On their own, they are useless, but when paired with their counterparts, they can do some serious damage. The only use of this type is the Exodia clone, or formally known as The Ultimate Wild. Collect all 5 parts, pay 5 mana, and you win.
 
 * Penalty Cards - When drawn, the effect immediately activates, usually causing the player to draw from a dice roll. This is why you can choose to draw a magic card!
 
 * Equipable Spells (WIP) - These cards come in a set of 3 or more and are drawn from a separate pile. Once all parts of the set are retrieved, you can trade those parts in for a singular card that acts as all those pieces and invest some mana for special perks.
 
-* Equipable Attacks - These cards can be attached to __any__ attack type spell (including other players') and the card shows how much mana to attach.
+* Equipable Attacks - These cards can be attached to __any__ ~~attack type~~ spell (including other players') and the card shows how much mana to attach.
 
 # Playing
 The player to the left of the dealer plays first. Play passes clockwise. You must match the top card of the DISCARD pile with either a matching color or matching number. For example, if the top card is a Red 5, you must play a red card, any color 5, or any Wild card. If you do not have a matching card, you must draw. If you draw a card you can play, you may play or keep the card. If no one is out of cards by the time the DRAW pile is depleted, reshuffle the DISCARD pile and continue play.
