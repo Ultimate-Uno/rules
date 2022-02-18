@@ -77,6 +77,10 @@ Here are the types of cards we feature:
 
 (COUNTER TRAP) - Normally activated when something or someone is threatening you, and it can essentially reflect that attack back at the threat.
 
+(BEAR TRAP) - Normally activated when a certain player does something and they are attacked for it.
+
+(CHANGE TRAP) - When something is changed (such as a Wild color), change it again to your choice.
+
 * Field Effects - These cards have the ability to change anything at the table. They stay in effect until (a) A condition on the card is met or (b) another field effect is played. Only one field effect at a time can be played, unless stated otherwise 😏
 
 (TIMED EFFECT) - A field effect that will expire after a condition is met, defined by the clock emblem.
