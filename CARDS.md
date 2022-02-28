@@ -24,6 +24,7 @@ To search, do:
 * Favor - Single Dealer: Ask for any card from any player. If they do not have it, draw 3 cards and end your turn.
 * Pot of Greed - Single Dealer: Take one special card (not magic) from everyone else at the table and discard two of them. If someone has UNO, skip them.
 * Grave Digger - Single Dealer: Take any one card from the magic discard pile. For every extra card you take, pay 2 mana.
+* Total Recall - Single Undead Chance Seated: WIP
 
 ### Secret Rare (5 mana)
 * Magic Bonfire - Single Seated: Reshuffle everyone's magic cards and deal them back evenly.
