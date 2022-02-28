@@ -73,6 +73,8 @@ Here are the types of cards we feature:
 
 (SEATED SPELL) - Any spell that affect a normally untouchable part of the game (such as switching seats), defined by the table/pi emblem.
 
+(UNDEAD SPELL) - Any spell that comes back to your hand on a win condition.
+
 * Trap Cards - These cards must be set before they can be activated. They have the ability to do something when the condition(s) written on the card are met. To set the card, place it face down and put two mana on top of it. They can be activated at any time when the condition(s) are met, even if it isn't your turn. You may unset the card to take the mana back, but it cannot be activated after being unset.
 
 (COUNTER TRAP) - Normally activated when something or someone is threatening you, and it can essentially reflect that attack back at the threat.
@@ -105,6 +107,18 @@ The player to the left of the dealer plays first. Play passes clockwise. You mus
 (JUMPING IN) - If you have the same color and number as the top of the DISCARD pile, you may play it out of turn before the next person in play. Play continues after the person who jumped in.
 
 _(MAGIC CARDS)_ - You may choose to draw a magic card in the beginning of your turn. As explained in the magic cards section, you may play a magic card during your turn, assuming you have enough mana for that card.
+
+## How a turn should look like (in order)
+BEFORE YOUR TURN:
+* Threatened by a +2 or +4 or stack? Defend yourself
+* Obey field effects
+* Choose to draw a magic card, or take 1 mana
+DURING YOUR TURN:
+* Choose to play magic cards
+* Play an UNO card or draw until you get an UNO card you may play. Keep it or play it
+AFTER YOUR TURN:
+* Take 1 mana
+* Turn ends
 
 # Going out
 Before playing your next to last card, you must say "UNO". If someone catches on that you did not say "UNO", then you must draw ~~4~~ 2 cards as a penalty. You can only get caught after you play your second to last card and before the next player's turn. Once a player plays their last card, the hand is over and they win. 
