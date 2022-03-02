@@ -113,9 +113,11 @@ BEFORE YOUR TURN:
 * Threatened by a +2 or +4 or stack? Defend yourself
 * Obey field effects
 * Choose to draw a magic card, or take 1 mana
+
 DURING YOUR TURN:
 * Choose to play magic cards
 * Play an UNO card or draw until you get an UNO card you may play. Keep it or play it
+
 AFTER YOUR TURN:
 * Take 1 mana
 * Turn ends
