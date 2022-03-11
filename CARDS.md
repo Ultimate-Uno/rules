@@ -47,9 +47,16 @@ To search, do:
 * Old Fashioned - Infinite Effect: Mana is completely disregarded. For every magic card you play, you must draw 1 UNO card and end your turn. You may only play one magic card per turn.
 * Distribution - Timed Effect: For 10 turns, the player with the most cards must give 1 card to the player with the least. If there is a tie, destroy this card.
 * Double the Fun - Infinite Effect: All Draw +2 cards are now doubled.
+* Clearance - Infinite Chance Effect: All super rare and below spell cards are free if you roll a 4 or above on a 6 sided dice. Otherwise, destroy the spell card.
+
+# Permanent Field Effects
+* Inventory - PERMANENT Infinite Chance Effect: Roll a D6 dice. The number rolled plus 4 is the new magic card limit.
+* Spacious - PERMANENT Infinite Effect: There can now be three field effects in play simultaneously. 
 
 # Equipable Attacks
 * Luck - 2 Mana: When a dice roll is lost, flip a coin. If heads, draw half the penalty (rounded down). If tails, proceed with the win condition.
 * Eye for an Eye - 3 Mana: When the attacker is excluded from an attack, they must also take the attack as well.
 * One More Thing - Add one extra card to the penalty/attack.
 
+# Parasites
+* Mana Leech - WIP
