@@ -91,6 +91,10 @@ Here are the types of cards we feature:
 
 (CHANCE EFFECT) - A field effect that requires a dice roll to function, defined by the dice emblem.
 
+(MARTYRDOM EFFECT) - A field effect that has a second effect when destoryed or replaced.
+
+(PERMANENT EFFECT) - A field effect that stays in play until a table clearing card like [Recirculation](https://github.com/Ultimate-Uno/rules/blob/main/CARDS.md#super-rare-3-mana) or [Magic Bonfire](https://github.com/Ultimate-Uno/rules/blob/main/CARDS.md#secret-rare-5-mana). Only other Permanent field effects can replace them.
+
 * Special Parts - On their own, they are useless, but when paired with their counterparts, they can do some serious damage. The only use of this type is the Exodia clone, or formally known as The Ultimate Wild. Collect all 5 parts, pay 5 mana, and you win.
 
 * Penalty Cards - When drawn, the effect immediately activates, usually causing the player to draw from a dice roll. This is why you can choose to draw a magic card!
@@ -98,6 +102,8 @@ Here are the types of cards we feature:
 * Equipable Spells (WIP) - These cards come in a set of 3 or more and are drawn from a separate pile. Once all parts of the set are retrieved, you can trade those parts in for a singular card that acts as all those pieces and invest some mana for special perks.
 
 * Equipable Attacks - These cards can be attached to __any__ ~~attack type~~ spell (including other players') and the card shows how much mana to attach.
+
+* Parasites - Cards that can be attached to any player and can inflict negative side effects to the victim but positive ones to the user. Costs mana to remove one from yourself and to attach one to a player. 
 
 # Playing
 The player to the left of the dealer plays first. Play passes clockwise. You must match the top card of the DISCARD pile with either a matching color or matching number. For example, if the top card is a Red 5, you must play a red card, any color 5, or any Wild card. If you do not have a matching card, you must draw. If you draw a card you can play, you may play or keep the card. If no one is out of cards by the time the DRAW pile is depleted, reshuffle the DISCARD pile and continue play.
