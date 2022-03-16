@@ -103,7 +103,9 @@ Here are the types of cards we feature:
 
 * Equipable Attacks - These cards can be attached to __any__ ~~attack type~~ spell (including other players') and the card shows how much mana to attach.
 
-* Parasites - Cards that can be attached to any player and can inflict negative side effects to the victim but positive ones to the user. Costs mana to remove one from yourself and to attach one to a player. 
+* Parasites - Cards that can be attached to any player and can inflict negative side effects to the victim but positive ones to the setter. Costs mana to remove one from yourself and to attach one to a player. They can only be removed by the victim after 1 full turn of its effects. When removed, there is a chance that the victim can get it back and use it on anyone else, even the player who attached it to them.
+
+* Blessings - Cards that you may attach to any player and can inflict positive side effects such as an extra mana per turn or less cards being drawn when plus foured. These can be removed by anyone at the table during their turn after the user has gone through 2 full turns.
 
 # Playing
 The player to the left of the dealer plays first. Play passes clockwise. You must match the top card of the DISCARD pile with either a matching color or matching number. For example, if the top card is a Red 5, you must play a red card, any color 5, or any Wild card. If you do not have a matching card, you must draw. If you draw a card you can play, you may play or keep the card. If no one is out of cards by the time the DRAW pile is depleted, reshuffle the DISCARD pile and continue play.
