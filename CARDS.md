@@ -35,6 +35,7 @@ To search, do:
 * Not So Fast - Super Rare Bear Trap: When "UNO" is called, the UNO-er must draw the amount shown from a dice roll if the number is more than 3.
 * Trap Jammer - Ultra Rare Counter Trap: When a trap card is activated, negate the effect and destroy it.
 * Last Reflection - Ultra Rare Counter Trap: When you are hit with a draw 8 or more, you may reflect it back to the last person who stacked it. Reverse play.
+* Fingernail - Ultra Rare Counter Trap: When a Parasite is attached to you, remove it and place it in your hand.
 * Spell Jammer - Secret Rare Bear Trap: When a spell card is played, negate the effect and destroy it.
 * Art of The Deal - Secret Rare Bear Trap: When a trade is accepted, make both parties draw 3 cards.
 
@@ -59,4 +60,14 @@ To search, do:
 * One More Thing - Add one extra card to the penalty/attack.
 
 # Parasites
-* Mana Leech - WIP
+* Mana Leech - 2.2: The victim must roll a 6 sided dice. If 4 or above, the victim must give one mana to the user. 
+  * (LVL 2 - Mosquito - 1.1) There is no dice roll and Mana Leech's effects are guaranteed.
+* Hirudin - 2.3: When the victim is forced to draw from any attack, they must draw 25% more cards. 
+  * (LVL 2 - Laceration - 1.1) The victim now draws 50% more cards.
+  * (LVL 3 - Flesh Wound - 1.1) The victim now draws 75% more cards.
+
+# Blessings
+* Phytonadione - 2 Mana: When the user is forced to draw from any attack, they draw 25% less cards.
+  * (LVL 2 - Vitamin K - 2 Super Rare): The user now draws 50% less cards.
+  * (LVL 3 - Coagulation - 1 Ultra Rare): If the stack is 8 cards or less, pass the stack to the next person.
+* Mana Fountain - WIP
